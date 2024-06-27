@@ -1,0 +1,1 @@
+<img src="{{ asset('backend/assets/images/logo-dark.svg') }}" width="100px">
